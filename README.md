@@ -1,6 +1,6 @@
 # Microtech Inc. — Corporate Tax & Book-to-Tax Analysis
 
-> **Finance & Tax Analysis Portfolio Project**
+> **Finance & Tax Analysis Portfolio Synthetic Project**
 > Corporate Tax • Book-to-Tax Reconciliation • Tax Adjustments • Excel • Financial Analysis
 
 ## 📌 Project Overview
