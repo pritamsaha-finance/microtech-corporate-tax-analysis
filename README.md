@@ -224,4 +224,4 @@ This repository is intended for **educational and portfolio purposes**. The anal
 ---
 
 **Prepared by Pritam Saha**
-*Finance & Tax Analysis Portfolio*
+*Finance & Tax Synthetic Analysis Portfolio*
